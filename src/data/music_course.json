@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques and take your skills to the next level.",
+      "price": 129.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1520340356584-c7dab20138b6"
+    },
+    {
+      "id": 3,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Learn how to play the piano with simple and effective lessons for beginners.",
+      "price": 89.99,
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1516594913929-03d066dec76e"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the fundamentals of music theory and improve your musicality.",
+      "price": 69.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1507835661030-79f6ef48e8b4"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn the basics of drumming and develop a solid foundation in rhythm.",
+      "price": 79.99,
+      "instructor": "Chris Taylor",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1507835661030-79f6ef48e8b4"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore the art of jazz improvisation and enhance your creativity.",
+      "price": 139.99,
+      "instructor": "Sophia Wilson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1532635211-8cf3c9d1a994"
+    },
+    {
+      "id": 7,
+      "title": "Singing Fundamentals",
+      "slug": "singing-fundamentals",
+      "description": "Develop your vocal skills and learn the basics of singing like a pro.",
+      "price": 59.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create electronic music tracks with professional production techniques.",
+      "price": 149.99,
+      "instructor": "Mia Harris",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063"
+    },
+    {
+      "id": 9,
+      "title": "Classical Guitar Mastery",
+      "slug": "classical-guitar-mastery",
+      "description": "Master classical guitar with in-depth lessons and expert guidance.",
+      "price": 119.99,
+      "instructor": "Liam Martinez",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1568480289359-1cdb3eae27f1"
+    },
+    {
+      "id": 10,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Learn how to write compelling songs and unleash your inner songwriter.",
+      "price": 99.99,
+      "instructor": "Ella Robinson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1487180144351-b8472da7d491"
+    }
+  ]
+}
